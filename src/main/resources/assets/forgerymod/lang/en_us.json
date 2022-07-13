@@ -1,4 +1,7 @@
 {
   "item.forgerymod.raw_tin": "Raw Tin",
-  "item.forgerymod.ingot_tin": "Tin Ingot"
+  "item.forgerymod.ingot_tin": "Tin Ingot",
+  "item.forgerymod.ingot_bronze": "Bronze Ingot",
+
+  "itemGroup.forgerymod.forgery": "Forgery"
 }
