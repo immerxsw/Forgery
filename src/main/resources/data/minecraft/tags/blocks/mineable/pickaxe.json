@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "forgerymod:ore_tin",
+    "forgerymod:block_tin",
+    "forgerymod:block_bronze"
+  ]
+}

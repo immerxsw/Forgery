@@ -3,5 +3,9 @@
   "item.forgerymod.ingot_tin": "Tin Ingot",
   "item.forgerymod.ingot_bronze": "Bronze Ingot",
 
+  "block.forgerymod.ore_tin": "Tin Ore",
+  "block.forgerymod.block_tin": "Block of Tin",
+  "block.forgerymod.block_bronze": "Block of Bronze",
+
   "itemGroup.forgerymod.forgery": "Forgery"
 }
