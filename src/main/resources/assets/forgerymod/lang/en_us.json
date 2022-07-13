@@ -4,6 +4,8 @@
   "item.forgerymod.ingot_bronze": "Bronze Ingot",
 
   "block.forgerymod.ore_tin": "Tin Ore",
+  "block.forgerymod.ore_tin_deepslate": "Deepslate Tin Ore",
+  "block.forgerymod.block_tin_raw": "Block of Raw Tin",
   "block.forgerymod.block_tin": "Block of Tin",
   "block.forgerymod.block_bronze": "Block of Bronze",
 

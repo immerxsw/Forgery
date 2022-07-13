@@ -19,6 +19,10 @@ public class ModBlocks {
 
     public static final Block ORE_TIN = registerBlock("ore_tin",
             new OreBlock(FabricBlockSettings.of(Material.STONE).requiresTool().strength(3.0f, 3.0f)), ModItemGroup.FORGERY);
+    public static final Block ORE_TIN_DEEPSLATE = registerBlock("ore_tin_deepslate",
+            new OreBlock(FabricBlockSettings.of(Material.STONE).requiresTool().strength(4.5f, 3.0f)), ModItemGroup.FORGERY);
+    public static final Block BLOCK_TIN_RAW = registerBlock("block_tin_raw",
+            new OreBlock(FabricBlockSettings.of(Material.STONE).requiresTool().strength(3.0f, 3.0f)), ModItemGroup.FORGERY);
     public static final Block BLOCK_TIN = registerBlock("block_tin",
             new OreBlock(FabricBlockSettings.of(Material.METAL).requiresTool().strength(3.0f, 6.0f)), ModItemGroup.FORGERY);
     public static final Block BLOCK_BRONZE = registerBlock("block_bronze",
