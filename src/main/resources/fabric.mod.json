@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "forgerymod",
+  "version": "${version}",
+
+  "name": "Forgery",
+  "description": "This is an example description! Tell everyone what your mod is about!",
+  "authors": [
+    "Immerx"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT License",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.immerx.forgerymod.ForgeryMod"
+    ],
+    "client": [
+      "net.immerxsw.forgerymod.ForgeryModClient"
+    ]
+  },
+  "mixins": [
+    "forgerymod.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
