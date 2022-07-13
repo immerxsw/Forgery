@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "ingot_bronze",
+  "ingredients": [
+    {
+      "item": "forgerymod:block_bronze"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "forgerymod:ingot_bronze"
+  }
+}
