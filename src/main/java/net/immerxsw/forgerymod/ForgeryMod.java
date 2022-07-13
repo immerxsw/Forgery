@@ -1,6 +1,7 @@
 package net.immerxsw.forgerymod;
 
 import net.fabricmc.api.ModInitializer;
+import net.immerxsw.forgerymod.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -10,5 +11,6 @@ public class ForgeryMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItems.registerModItems();
 	}
 }

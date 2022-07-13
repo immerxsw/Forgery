@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.immerx.forgerymod.ForgeryMod"
+      "net.immerxsw.forgerymod.ForgeryMod"
     ],
     "client": [
       "net.immerxsw.forgerymod.ForgeryModClient"
